@@ -5,8 +5,8 @@ public class Calculator {
     return x + z;
   }
 
-  public static double subtract(double x, double y) {
-    return x - y;
+  public static double subtract(double x, double z) {
+    return x - z;
   }
 
   public static double multiply(double x, double y) {
